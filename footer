@@ -1,0 +1,56 @@
+<footer>
+            <section id="footerText">
+            <div class="one">
+            <p><b>Trivsel:</b><br />    
+            Godt psykisk arbejdsmiljø<br /><br />
+            
+            Stress og stresshåndtering<br />
+            Samarbejde og relationer<br /><br />
+            
+            Mobning på arbejdspladsen<br />
+            Konflikter på arbejdspladsen<br />
+            Trusler og vold på arbejdspladsen
+            </p></div>
+            <div class="two">
+            <p><b>Indeklima:</b><br />
+            Generende støj<br />
+            Kulde og træk<br /><br />
+            
+            Luftkvalitet<br /><br />
+            
+            Arbejdslys<br />
+            Rengøring<br />
+            Fugt og skimmelsvampe
+            </p></div>
+            <div class="three">
+            <p><b>Din arbejdsplads:</b><br />
+            Daginstitution<br />
+            Kontor<br /><br />
+            
+            Undervisning<br />
+            Sygehus<br />
+            Privat praksis<br />
+            Forskning
+            </p></div>
+            <div class="four">
+            <p><b>Arbejdsmiljøarbejdet:</b><br />
+            Det daglige samarbejde<br /><br />
+            
+            APV - Arbejdspladsvurdering<br /><br />
+            
+            Arbejdsulykker - et overblik<br /><br />
+            
+            Arbejdsmiljøorganisationen<br />
+            Metoder i arbejdsmiljøarbejdet<br />
+            UMV - Miljøvurdering</p></div>
+            </section>
+
+            <div id="footerIcons">
+                <div></div>
+                <div class="icons">
+            <figure><img src="_FILES/Psd/fb.png" alt="fb"></figure>
+            <figure><img src="_FILES/Psd/g+.png" alt="g+"></figure>
+            <figure><img src="_FILES/Psd/twitter.png" alt="twitter"></figure>
+                </div>
+            </div>
+    </footer>
